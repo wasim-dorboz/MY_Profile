@@ -6,4 +6,4 @@ open index with browser
 
 use correct answers with radio 
  
-the answer : wassimdorboz
+the answer : wasimdorboz
